@@ -1,0 +1,1 @@
+- o/hair_short.txt: This work is based on "Hair" (https://sketchfab.com/3d-models/hair-cc203ee352074c69b8b10e7b915194da) by vicentw66 (https://sketchfab.com/vicentw66) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
