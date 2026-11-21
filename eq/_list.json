@@ -3394,7 +3394,7 @@
    ]
   ]
  },
- "hand_moon0": {
+ "hand_eqmoon0": {
   "slot": "hand",
   "sub": "moon",
   "g": 0,
@@ -3413,7 +3413,7 @@
    ]
   ]
  },
- "hand_moon1": {
+ "hand_eqmoon1": {
   "slot": "hand",
   "sub": "moon",
   "g": 1,
@@ -3432,7 +3432,7 @@
    ]
   ]
  },
- "hand_moon2": {
+ "hand_eqmoon2": {
   "slot": "hand",
   "sub": "moon",
   "g": 2,
@@ -3451,7 +3451,7 @@
    ]
   ]
  },
- "hand_moon3": {
+ "hand_eqmoon3": {
   "slot": "hand",
   "sub": "moon",
   "g": 3,
@@ -3470,7 +3470,7 @@
    ]
   ]
  },
- "hand_moon4": {
+ "hand_eqmoon4": {
   "slot": "hand",
   "sub": "moon",
   "g": 4,
