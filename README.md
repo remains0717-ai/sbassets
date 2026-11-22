@@ -8,5 +8,6 @@
 | r3f.json | 평면 「내 방」 판 조립식 윤곽·축 자료 |
 | o/<꾸밈 id>.txt | 입체 옷·머리 부품 하나씩(GLB를 gzip+base64로) |
 | acc/ | 입체 꾸밈 부품 GLB와 acc.json(나중에 더함) |
+| bgm/ | 로블록스반 월드 배경 음악 mp3(OpenGameArt CC0, 출처 = CREDITS.md) |
 
 주소는 브랜치 이름 말고 커밋 해시로 고정해서 쓴다: `https://cdn.jsdelivr.net/gh/<계정>/sbassets@<커밋해시>/r3d.json`
